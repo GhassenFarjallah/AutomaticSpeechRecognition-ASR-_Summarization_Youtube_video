@@ -7,13 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1PKoIClrWPVRu7y86DXZXKanivprrjq5W
 """
 
-!pip install --upgrade pytube
-!pip install --upgrade youtube-dl
-!pip install --upgrade yt-dlp
-
-!pip install pytube
-
-!pip install ffprobe
 
 import yt_dlp
 
